@@ -29,3 +29,9 @@ Normal text
 
 -[x] task 2 complete
 
+[link](https://www.google.com)
+
+| table | header |
+|:---|:---|
+| cell 1| cell 2 |
+
