@@ -25,9 +25,9 @@ Normal text
     1. sub-item 2
 <br>
 
--[ ] task 1 incomplete
+- [ ] task 1 incomplete
 
--[x] task 2 complete
+- [x] task 2 complete
 
 [link](https://www.google.com)
 
