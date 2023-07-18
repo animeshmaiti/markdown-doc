@@ -35,3 +35,18 @@ Normal text
 |:---|:---|
 | cell 1| cell 2 |
 
+```python
+print("Hello World")
+```
+my suggestion
+```diff
+- const var=[]
++ const var={}
+```
+>i have idea 1 that is...
+
+i agree with this idea
+> i have idea 2 that is...
+
+i do not agree with this idea
+
